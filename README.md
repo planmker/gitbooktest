@@ -28,7 +28,9 @@ Gitbook Integration Process
 
    2. gitbook background process 등록
 
-   3. node.js 에러 발생 시 알림 기능 생성
+   3. 저장소 변경 시 hook 설정 하여, 자동으로 서버 사이드 업데이트 되도록 설정
+
+   4. node.js 에러 발생 시 알림 기능 생성
 
 
 
