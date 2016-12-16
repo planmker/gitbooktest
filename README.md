@@ -6,8 +6,6 @@ This file file serves as your book's preface, a great place to describe your boo
 
 Gitbook Integration Process
 
-
-
 1. ServerSide: Node.js 서버 생성
 
 2. ServerSide: gitbook 설치
@@ -24,10 +22,13 @@ Gitbook Integration Process
 
 8. Check
 
+9. 추가 설정 필요 부분
 
+   1. node.js + apache 연결
 
+   2. gitbook background process 등록
 
-
+   3. node.js 에러 발생 시 알림 기능 생성
 
 
 
