@@ -4,6 +4,8 @@ This file file serves as your book's preface, a great place to describe your boo
 
 깃북 테스트!!!!
 
+
+
 Gitbook Integration Process
 
 1. ServerSide: Node.js 서버 생성
@@ -33,9 +35,8 @@ Gitbook Integration Process
       1. branch를 사용할 경우 branch 설정 기능 사용
 
 
-   4. node.js 에러 발생 시 알림 기능 생성
 
-
+1. node.js 에러 발생 시 알림 기능 생성
 
 ![](/assets/2016-12-16_174448.png)
 
